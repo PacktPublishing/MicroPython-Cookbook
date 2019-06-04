@@ -1,10 +1,10 @@
 # MicroPython Cookbook
 
-<a href="https://www.packtpub.com/in/application-development/micropython-cookbook?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="MicroPython Cookbook" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/in/application-development/micropython-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838649951 "><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/1/2/1234_b13911.png" alt="MicroPython Cookbook" height="256px" align="right"></a>
 
 This is the code repository for [MicroPython Cookbook](https://www.packtpub.com/in/application-development/micropython-cookbook?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
-****
+**Build practical solutions to control LEDs, make music and read sensor data using popular microcontrollers such as Adafruit Circuit Playground, ESP8266, and the BBC Micro Bit**
 
 ## What is this book about?
 MicroPython is an open source implementation of Python 3 that runs in embedded environments. With MicroPython, you can write clean and simple Python code to control hardware instead of using complex low-level languages such as C and C++. This book guides you through all the major applications of the MicroPython platform to build and program projects that use microcontrollers.
