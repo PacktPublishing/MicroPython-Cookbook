@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/micropython-cookbook/9781838649951)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1838649956).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # MicroPython Cookbook
 
 <a href="https://www.packtpub.com/in/application-development/micropython-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838649951 "><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/1/2/1234_b13911.png" alt="MicroPython Cookbook" height="256px" align="right"></a>
